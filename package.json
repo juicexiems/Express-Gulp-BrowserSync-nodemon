@@ -1,0 +1,30 @@
+{
+  "name": "express-gulp-browseryync-nodemon",
+  "version": "1.0.0",
+  "description": "learing font",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www"
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juicexiems/Express-Gulp-BrowserSync-nodemon.git"
+  },
+  "author": {
+      "name": "michelle",
+      "email": "juice_xiems@163.com",
+      "url": "https://github.com/juicexiems/Express-Gulp-BrowserSync-nodemon"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juicexiems/Express-Gulp-BrowserSync-nodemon/issues"
+  },
+  "homepage": "https://github.com/juicexiems/Express-Gulp-BrowserSync-nodemon#readme"
+}
